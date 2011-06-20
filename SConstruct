@@ -1,0 +1,1 @@
+Program('allocator', Glob('*.cpp'))
